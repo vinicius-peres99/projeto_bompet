@@ -1,4 +1,5 @@
 # projeto_bompet
+
 import os
 
 def processar_duvidas(resposta, nome):
